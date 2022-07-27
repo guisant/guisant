@@ -3,11 +3,8 @@
 <br>
 <div> 
     <a target="_blank" href="https://instagram.com/_guuihsant"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    &nbsp;
     <a target="_blank" href = "https://api.whatsapp.com/send?phone=5511993487949"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    &nbsp;
     <a target="_blank" href = "mailto:guilhermepacheco253@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/guilherme-pacheco-a1480a1a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
