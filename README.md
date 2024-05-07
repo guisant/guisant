@@ -9,7 +9,7 @@
   Com uma sólida experiência de 6 anos na área de Tecnologia da Informação, sou formado em Análise e Desenvolvimento de Sistemas, dedicado ao objetivo de me tornar um Desenvolvedor FullStack. Minha expertise abrange uma variedade de tecnologias, incluindo <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>React</b>, <b>Node</b>, <b>Next</b>, <b>SQL</b>, entre outras. <br>
     Além disso, possuo habilidades em <b>suporte de TI</b>, <b>infraestrutura</b> e <b>execução de testes unitários e funcionais</b>.
 </p>
-
+<br>
 <p align="left">
   💻 Linguagens: 
 
@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </p>
-
+<br>
 <p align="left">
   🛠️ Ferramentas: 
 
@@ -39,20 +39,18 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
-
+<br>
 <p align="left">
   Deixo meus contatos aqui: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:gsoficial.guilherme@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/guilhermepacheco253/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5511978492228" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
 <br><br>
