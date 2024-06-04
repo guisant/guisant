@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
- <h3>Desenvolvedor Front-End FullStack</h3>
+ <h3>Desenvolvedor Front-End Junior</h3>
 </p>
 
 <p align="left"> 
