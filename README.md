@@ -2,12 +2,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
- <h3>Desenvolvedor Front-End Junior</h3>
+ <h3>Desenvolvedor Junior</h3>
 </p>
 
 <p align="left"> 
   Com uma sólida experiência de 6 anos na área de Tecnologia da Informação, sou formado em Análise e Desenvolvimento de Sistemas, dedicado ao objetivo de me tornar um Desenvolvedor FullStack. Minha expertise abrange uma variedade de tecnologias, incluindo <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>React</b>, <b>Node</b>, <b>Next</b>, <b>SQL</b>, entre outras. <br>
-    Além disso, possuo habilidades em <b>suporte de TI</b>, <b>infraestrutura</b> e <b>execução de testes unitários e funcionais</b>.
 </p>
 <br>
 <p align="left">
